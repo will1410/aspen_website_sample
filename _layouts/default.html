@@ -47,6 +47,7 @@
                 $("#tg-sb-content").toggleClass('col-md-12');
                 $("#tg-sb-icon").toggleClass('fa-toggle-on');
                 $("#tg-sb-icon").toggleClass('fa-toggle-off');
+                $("a #sidebar_label").toggle();
             });
         });
     </script>
@@ -73,6 +74,7 @@
 
 </head>
 <body>
+{% include header.html %}
 {% include topnav.html %}
 <!-- Page Content -->
 <div class="container">
@@ -106,3 +108,4 @@
 </html>
 
 {% comment %} Copyright 2021 Google LLC {% endcomment %}
+ {% comment %} Copyright 2026 Aspen Library Software Foundation {% endcomment %}
