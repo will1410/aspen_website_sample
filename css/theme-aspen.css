@@ -120,4 +120,5 @@ li.sidebarTitle {
     border-color: #015CAE;
 }
 
-.container.topnavlinks .collapse.navbar-collapse a {font-size: 1.5em; font-weight: bold;}
+/* Embiggen fonts in navbar */
+.container.topnavlinks .collapse.navbar-collapse {font-size: 1.5em; font-weight: bold;}
