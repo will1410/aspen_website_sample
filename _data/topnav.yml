@@ -23,7 +23,7 @@ topnav_dropdowns:
         - title: Aspen help center
           external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
         - title: Jira
-          external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/boards/38
+          external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
 
 
 # Copyright 2026 by Aspen Library Software Foundation
