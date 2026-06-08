@@ -12,12 +12,10 @@ topnav_dropdowns:
   folders:
     - title: About
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Foundation board
+          url: /index.html
+        - title: Bylaws
+          url: /index.html
     - title: Resources
       folderitems:
         - title: Aspen help center
