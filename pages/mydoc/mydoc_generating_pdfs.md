@@ -282,21 +282,21 @@ h1 { string-set: doctitle content() }
 @page {
     @top-left {
         content: string(doctitle);
-        font-size: 11px;
+        font-size: .73rem;
         font-style: italic;
     }
     @top-right {
         content: prince-script(datestamp);
-        font-size: 11px;
+        font-size: .73rem;
     }
 
     @bottom-right {
         content: "Page " counter(page);
-        font-size: 11px;
+        font-size: .73rem;
     }
     @bottom-left {
         content: prince-script(guideName);
-        font-size: 11px;
+        font-size: .73rem;
     }
 }
 ```
