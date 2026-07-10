@@ -121,4 +121,12 @@ li.sidebarTitle {
 }
 
 /* Embiggen fonts in navbar */
-.container.topnavlinks .collapse.navbar-collapse {font-size: 1.5em; font-weight: bold;}
+.container.topnavlinks .collapse.navbar-collapse a {
+    font-size: 1.5em; 
+    font-weight: bold; 
+    line-height: 1.5em;
+    padding: .25em;
+}
+
+
+.navbar-header {margin-top: 8px;}
