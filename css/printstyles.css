@@ -2,13 +2,13 @@
 /*body.print .container {max-width: 650px;}*/
 
 body {
-    font-size:14px;
+    font-size: .93rem;
 }
 .nav ul li a {border-top:0px; background-color:transparent; color: #808080; }
 #navig a[href] {color: #595959 !important;}
 table .table {max-width:650px;}
 
-#navig li.sectionHead {font-weight: bold; font-size: 18px; color: #595959 !important; }
+#navig li.sectionHead {font-weight: bold; font-size: 1rem color: #595959 !important; }
 #navig li {font-weight: normal; }
 
 #navig a[href]::after { content: leader(".") target-counter(attr(href), page); }
@@ -75,12 +75,12 @@ a[href*="mailto"]::after, a[data-toggle="tooltip"]::after, a[href].noCrossRef::a
 
 .copyrightBoilerplate {
     page-break-before:always;
-    font-size:14px;
+    font-size: .93rem;
 }
 
 .lastGeneratedDate {
     font-style: italic;
-    font-size:14px;
+    font-size: .93rem;
     color: gray;
 }
 
@@ -131,21 +131,21 @@ h1 { string-set: doctitle content() }
 @page {
     @top-left {
         content: string(doctitle);
-        font-size: 11px;
+        font-size: .73rem;
         font-style: italic;
     }
     @top-right {
         content: prince-script(datestamp);
-        font-size: 11px;
+        font-size: .73rem;
     }
 
     @bottom-right {
         content: "Page " counter(page);
-        font-size: 11px;
+        font-size: .73rem;
     }
     @bottom-left {
         content: prince-script(guideName);
-        font-size: 11px;
+        font-size: .73rem;
     }
 }
 .alert {

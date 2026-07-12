@@ -1371,13 +1371,13 @@ th {
 }
 
 html {
-    font-size: 10px;
+    font-size: .67rem;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: .93rem;
     line-height: 1.42857143;
     color: #333;
     background-color: #fff
@@ -1576,32 +1576,32 @@ h6 small {
 
 .h1,
 h1 {
-    font-size: 36px
+    font-size: 2.4rem
 }
 
 .h2,
 h2 {
-    font-size: 30px
+    font-size: 2rem
 }
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 1.6rem
 }
 
 .h4,
 h4 {
-    font-size: 18px
+    font-size: 1rem
 }
 
 .h5,
 h5 {
-    font-size: 14px
+    font-size: .93rem
 }
 
 .h6,
 h6 {
-    font-size: 12px
+    font-size: .8rem
 }
 
 p {
@@ -1610,14 +1610,14 @@ p {
 
 .lead {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 1.07rem;
     font-weight: 300;
     line-height: 1.4
 }
 
 @media (min-width:768px) {
     .lead {
-        font-size: 21px
+        font-size: 1.4rem
     }
 }
 
@@ -1832,7 +1832,7 @@ abbr[title] {
 blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
-    font-size: 17.5px;
+    font-size: 1.17rem;
     border-left: 5px solid #eee
 }
 
@@ -1923,7 +1923,7 @@ pre {
     display: block;
     padding: 9.5px;
     margin: 0 0 10px;
-    font-size: 13px;
+    font-size: .87rem;
     line-height: 1.42857143;
     color: #333;
     word-break: break-all;
@@ -3048,7 +3048,7 @@ legend {
     width: 100%;
     padding: 0;
     margin-bottom: 20px;
-    font-size: 21px;
+    font-size: 1.4rem;
     line-height: inherit;
     color: #333;
     border: 0;
@@ -3100,7 +3100,7 @@ input[type=radio]:focus {
 output {
     display: block;
     padding-top: 7px;
-    font-size: 14px;
+    font-size: .93rem;
     line-height: 1.42857143;
     color: #555
 }
@@ -3110,7 +3110,7 @@ output {
     width: 100%;
     height: 34px;
     padding: 6px 12px;
-    font-size: 14px;
+    font-size: .93rem;
     line-height: 1.42857143;
     color: #555;
     background-color: #fff;
@@ -3271,7 +3271,7 @@ fieldset[disabled] .radio label {
 .input-sm {
     height: 30px;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -3289,7 +3289,7 @@ textarea.input-sm {
 .form-group-sm .form-control {
     height: 30px;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -3307,14 +3307,14 @@ textarea.form-group-sm .form-control {
 .form-group-sm .form-control-static {
     height: 30px;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5
 }
 
 .input-lg {
     height: 46px;
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 1.3333333;
     border-radius: 6px
 }
@@ -3332,7 +3332,7 @@ textarea.input-lg {
 .form-group-lg .form-control {
     height: 46px;
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 1.3333333;
     border-radius: 6px
 }
@@ -3350,7 +3350,7 @@ textarea.form-group-lg .form-control {
 .form-group-lg .form-control-static {
     height: 46px;
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 1.3333333
 }
 
@@ -3592,7 +3592,7 @@ textarea.form-group-lg .form-control {
     display: inline-block;
     padding: 6px 12px;
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: .93rem;
     font-weight: 400;
     line-height: 1.42857143;
     text-align: center;
@@ -3981,7 +3981,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-group-lg>.btn,
 .btn-lg {
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 1.3333333;
     border-radius: 6px
 }
@@ -3989,7 +3989,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-group-sm>.btn,
 .btn-sm {
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -3997,7 +3997,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-group-xs>.btn,
 .btn-xs {
     padding: 1px 5px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -4091,7 +4091,7 @@ tbody.collapse.in {
     min-width: 160px;
     padding: 5px 0;
     margin: 2px 0 0;
-    font-size: 14px;
+    font-size: .93rem;
     text-align: left;
     list-style: none;
     background-color: #fff;
@@ -4176,7 +4176,7 @@ tbody.collapse.in {
 .dropdown-header {
     display: block;
     padding: 3px 20px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.42857143;
     color: #777;
     white-space: nowrap
@@ -4446,7 +4446,7 @@ tbody.collapse.in {
 .input-group-lg>.input-group-btn>.btn {
     height: 46px;
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 1.3333333;
     border-radius: 6px
 }
@@ -4472,7 +4472,7 @@ textarea.input-group-lg>.input-group-btn>.btn {
 .input-group-sm>.input-group-btn>.btn {
     height: 30px;
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 1.5;
     border-radius: 3px
 }
@@ -4514,7 +4514,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .input-group-addon {
     padding: 6px 12px;
-    font-size: 14px;
+    font-size: .93rem;
     font-weight: 400;
     line-height: 1;
     color: #555;
@@ -4526,13 +4526,13 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .input-group-addon.input-sm {
     padding: 5px 10px;
-    font-size: 12px;
+    font-size: .8rem;
     border-radius: 3px
 }
 
 .input-group-addon.input-lg {
     padding: 10px 16px;
-    font-size: 18px;
+    font-size: 1rem
     border-radius: 6px
 }
 
@@ -4960,7 +4960,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     float: left;
     height: 50px;
     padding: 15px 15px;
-    font-size: 18px;
+    font-size: 1rem
     line-height: 20px
 }
 
@@ -5528,7 +5528,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination-lg>li>a,
 .pagination-lg>li>span {
     padding: 10px 16px;
-    font-size: 18px
+    font-size: 1rem
 }
 
 .pagination-lg>li:first-child>a,
@@ -5546,7 +5546,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .pagination-sm>li>a,
 .pagination-sm>li>span {
     padding: 5px 10px;
-    font-size: 12px
+    font-size: .8rem
 }
 
 .pagination-sm>li:first-child>a,
@@ -5693,7 +5693,7 @@ a.label:hover {
     display: inline-block;
     min-width: 10px;
     padding: 3px 7px;
-    font-size: 12px;
+    font-size: .8rem;
     font-weight: 700;
     line-height: 1;
     color: #fff;
@@ -5757,7 +5757,7 @@ a.badge:hover {
 
 .jumbotron p {
     margin-bottom: 15px;
-    font-size: 21px;
+    font-size: 1.4rem;
     font-weight: 200
 }
 
@@ -5785,7 +5785,7 @@ a.badge:hover {
     }
     .jumbotron .h1,
     .jumbotron h1 {
-        font-size: 63px
+        font-size: 4.2rem
     }
 }
 
@@ -5952,7 +5952,7 @@ a.thumbnail:hover {
     float: left;
     width: 0;
     height: 100%;
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 20px;
     color: #fff;
     text-align: center;
@@ -6305,7 +6305,7 @@ a.list-group-item-danger.active:hover {
 .panel-title {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 1.07rem;
     color: inherit
 }
 
@@ -6741,7 +6741,7 @@ a.list-group-item-danger.active:hover {
 
 .close {
     float: right;
-    font-size: 21px;
+    font-size: 1.4rem;
     font-weight: 700;
     line-height: 1;
     color: #000;
@@ -6910,7 +6910,7 @@ button.close {
     z-index: 1070;
     display: block;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 12px;
+    font-size: .8rem;
     font-weight: 400;
     line-height: 1.4;
     visibility: visible;
@@ -7034,7 +7034,7 @@ button.close {
     max-width: 276px;
     padding: 1px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: .93rem;
     font-weight: 400;
     line-height: 1.42857143;
     text-align: left;
@@ -7066,7 +7066,7 @@ button.close {
 .popover-title {
     padding: 8px 14px;
     margin: 0;
-    font-size: 14px;
+    font-size: .93rem;
     background-color: #f7f7f7;
     border-bottom: 1px solid #ebebeb;
     border-radius: 5px 5px 0 0
@@ -7172,7 +7172,7 @@ button.close {
         width: 30px;
         height: 30px;
         margin-top: -15px;
-        font-size: 30px
+        font-size: 2rem
     }
     .carousel-control .glyphicon-chevron-left,
     .carousel-control .icon-prev {

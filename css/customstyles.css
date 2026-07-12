@@ -1,5 +1,9 @@
+html {
+  font-size: 18px
+}
+
 body {
-    font-size:15px;
+    font-size: 1rem;
 }
 
 .bs-callout {
@@ -96,7 +100,7 @@ margin-top: -40px
 }
 
 .pageSummary {
-    font-size:13px;
+    font-size: .87rem;
     display:block;
     margin-bottom:15px;
     padding-left:20px;
@@ -183,7 +187,7 @@ table tr td {
 
 p.external a {
     text-align:right;
-    font-size:12px;
+    font-size: .8rem;
     color: #0088cc;
     display:inline;
 }
@@ -193,12 +197,12 @@ p.external a {
 }
 p.post-meta {font-size: 80%; color: #777;}
 
-.entry-date{font-size:14px;font-size:0.875rem;line-height:1.71429;margin-bottom:0;text-transform:uppercase;}
+.entry-date{font-size: .93rem;font-size:0.875rem;line-height:1.71429;margin-bottom:0;text-transform:uppercase;}
 
 /* search area */
 #search-demo-container ul#results-container {
     list-style: none;
-    font-size: 12px;
+    font-size: .8rem;
     background-color: white;
     position: absolute;
     top: 40px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
@@ -300,11 +304,11 @@ footer {
 
 /* FAQ page */
 #accordion .panel-heading {
-    font-size: 12px;
+    font-size: .8rem;
 }
 
 a.accordion-toggle, a.accordion-collapsed {
-    font-size: 14px;
+    font-size: .93rem;
     text-decoration: none;
 }
 
@@ -344,7 +348,7 @@ a.accordion-toggle, a.accordion-collapsed {
 
 .nav li > a > span {
     float: right;
-    font-size: 19px;
+    font-size: 1.27;
     font-weight: bolder;
 }
 
@@ -366,14 +370,14 @@ background-color: #347DBE;
 }
 
 .nav li a {
-    font-size: 12px;
+    font-size: .8rem;
     line-height: 18px;
     padding: 2px 10px;
     background-color: #f1f1f1;
 }
 
 .nav > li > a {
-    font-size: 14px;
+    font-size: .93rem;
     line-height: 20px;
     padding: 4px 10px;
 }
@@ -436,7 +440,7 @@ span.projectTitle {
     border-radius: 5px;
     margin-top: 50px;
     font-style:italic;
-    font-size:12px;
+    font-size: .8rem;
 }
 
 img.screenshotSmall {
@@ -629,7 +633,7 @@ li.activeSeries {
 .seriesContext .dropdown-menu li.active {
     font-weight: bold;
     margin-left: 43px;
-    font-size:18px;
+    font-size: 1rem;
 }
 
 .alert-warning {
@@ -663,7 +667,7 @@ button.cursorNorm {
 }
 
 h2  {
-    font-size:24px;
+    font-size: 1.6rem;
     line-height:29px;
 }
 span.otherProgrammingLanguages {
@@ -721,7 +725,7 @@ ol.series li {
 }
 .nav ul.series li {
     list-style: decimal;
-    font-size:12px;
+    font-size: .8rem;
 }
 
 .nav ul.series li a:hover {
@@ -814,7 +818,7 @@ span.red {
 }
 
 h3.codeExplanation {
-    font-size:18px;
+    font-size: 1rem;
     font-style:normal;
     color: black;
     line-height: 24px;
@@ -956,7 +960,7 @@ a.no_icon:after
     text-align: left;
 }
 .search input {
-    font-size: 20px;
+    font-size: 1.33rem;
     width: 300px;
 }
 .results {
@@ -977,12 +981,12 @@ div.results {
 }
 
 .post-meta {
-    font-size: 14px;
+    font-size: .93rem;
     color: #828282;
 }
 
 .post-link {
-    font-size: 22px;
+    font-size: 1.4rem;
 }
 
 .post-list p {
@@ -1049,10 +1053,10 @@ table thead th code.highlighter-rouge {
     height: 80px;
     background-color: #f5f5f5;
     font-family: Arial;
-    font-size: 12px;
+    font-size: .8rem;
     hyphens: auto;
     float: left;
-    font-size: 12px;
+    font-size: .8rem;
 }
 
 .box:hover {
@@ -1084,7 +1088,7 @@ div.arrow {
     max-width: 50px;
     margin-left: 15px;
     margin-right: 15px;
-    font-size: 20px;
+    font-size: 1.33rem;
 }
 
 div.content {
@@ -1124,7 +1128,7 @@ div.box.box1 {
 }
 
 #userMap .complexArrow {
-    font-size: 22px;
+    font-size: 1.4rem;
     margin: 0px 10px;
 }
 
@@ -1139,7 +1143,7 @@ div.box.box1 {
         white-space: -pre-wrap;      /* Opera 4-6 */
         white-space: -o-pre-wrap;    /* Opera 7 */
         word-wrap: break-word;       /* Internet Explorer 5.5+ */
-        font-size: 14px;
+        font-size: .93rem;
     }
 
 /*
