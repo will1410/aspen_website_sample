@@ -13,9 +13,9 @@ topnav_dropdowns:
     - title: About
       folderitems:
         - title: Foundation board
-          url: /index.html
+          url: /foundation_board.html
         - title: Bylaws
-          url: /index.html
+          url: /bylaws.html
     - title: Resources
       folderitems:
         - title: Aspen help center
