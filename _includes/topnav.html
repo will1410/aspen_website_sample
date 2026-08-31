@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="fa fa-home fa-lg navbar-brand" href="index.html" style="font-size: 1.5em">&nbsp;<span class="projectTitle"> {{site.topnav_title}}</span></a>
+            <a class="fa fa-home fa-lg navbar-brand" title="Home" href="index.html" style="font-size: 1.5em; padding-top: 12px;">&nbsp;<span class="projectTitle"> {{site.topnav_title}}</span></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -63,6 +63,7 @@
                 <li>
                     <!--start search-->
                     <div id="search-demo-container">
+                        <label for="search-input">Search</label>
                         <input type="text" id="search-input" placeholder="{{site.data.strings.search_placeholder_text}}">
                         <ul id="results-container"></ul>
                     </div>

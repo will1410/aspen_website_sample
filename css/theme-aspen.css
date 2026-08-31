@@ -41,6 +41,8 @@ a[data-toggle="tooltip"] {
     background-color: #57585c;
     border-color: #015CAE;
 }
+
+
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
 }
@@ -122,11 +124,21 @@ li.sidebarTitle {
 
 /* Embiggen fonts in navbar */
 .container.topnavlinks .collapse.navbar-collapse a {
-    font-size: 1.5em; 
+    font-size: 1.25em; 
     font-weight: bold; 
     line-height: 1.5em;
     padding: .25em;
 }
 
+.container.topnavlinks .collapse.navbar-collapse .fa {
+    cmargin-bottom: 10em !important;
+}
+
+/* style label for search input */
+#search-demo-container label{
+    color: white;
+}
+
 
 .navbar-header {margin-top: 8px;}
+

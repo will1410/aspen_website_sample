@@ -5,7 +5,7 @@ entries:
   levels: two
   folders:
 
-  - title: Current news
+  - title: News
     output: web, pdf
     folderitems:  
 
@@ -13,7 +13,7 @@ entries:
       output: web
       url: /news.html 
 
-    - title: News archive
+    - title: Archive
       output: web
       url: /news_archive.html 
     

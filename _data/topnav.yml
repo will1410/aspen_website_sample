@@ -5,23 +5,36 @@ topnav:
   items:
     - title: News
       url: /news
+    - title: Calendar 
+      url: /calendar
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: About
-      folderitems:
-        - title: Foundation board
-          url: /index.html
-        - title: Bylaws
-          url: /index.html
     - title: Resources
       folderitems:
         - title: Aspen help center
           external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
         - title: Jira
           external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
+    - title: Get involved
+      folderitems::
+        - title: Technical committee home 
+          url: technical_committee.html
+    - title: About
+      folderitems:
+        - title: About
+          url: /board
+        - title: Bylaws
+          url: bylaws.html
+        - title: Finances
+          url: finances.html
+        - title: Meetings
+          url: meetings.html
+        - title: Officers and committees
+          url: officers.html
+
 
 
 # Copyright 2026 by Aspen Library Software Foundation
