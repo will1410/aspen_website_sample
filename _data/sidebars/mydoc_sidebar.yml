@@ -6,6 +6,7 @@ entries:
   folders:
 
   - title: News
+  - title: News
     output: web
     url: /news.html 
 
