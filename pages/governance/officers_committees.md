@@ -27,7 +27,7 @@ datatable: true
     </thead>
     <tr>
         <td style="display: none;">1</td>
-        <td><a href="/bryan_jones.html">Bryan Jones</a></td>
+        <td><a href="bryan_jones.html">Bryan Jones</a></td>
         <td>Nashville Public Library</td>
         <td>Tennessee<br>(Central time)</td>
         <td>bryan.n.jones@nashville.gov</td>
@@ -36,7 +36,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">2</td>
-        <td><a href="/sierra_chastain_rittue.html">Sierra Chastain-Rittue</a></td>
+        <td><a href="sierra_chastain_rittue.html">Sierra Chastain-Rittue</a></td>
         <td>C/W MARS</td>
         <td>Massachusetts<br>(Eastern time)</td>
         <td>chastain-rittues@cwmars.org</td>
@@ -45,7 +45,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">3</td>
-        <td><a href="/bob_bennhoff.html">Bob Bennhoff</a></td>
+        <td><a href="bob_bennhoff.html">Bob Bennhoff</a></td>
         <td>CLIC</td>
         <td>Colorado<br>(Mountain time)</td>
         <td>bbennhoff@clicweb.org</td>
@@ -54,7 +54,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">4</td>
-        <td><a href="/linda_kramer.html">Linda Kramer</a></td>
+        <td><a href="linda_kramer.html">Linda Kramer</a></td>
         <td>Martin Luther College</td>
         <td>Minnesota<br>(Central time)</td>
         <td>kramerlm@mlc-wels.edu</td>
@@ -63,7 +63,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">5</td>
-        <td><a href="/daniel_barden.html">Daniel Barden</a></td>
+        <td><a href="daniel_barden.html">Daniel Barden</a></td>
         <td>Cuyahoga Public Library</td>
         <td>Ohio<br>(Eastern time)</td>
         <td>dbarden@cuyahogalibrary.org</td>
@@ -72,7 +72,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">6</td>
-        <td><a href="/kris_becker.html">Kris Becker</a></td>
+        <td><a href="kris_becker.html">Kris Becker</a></td>
         <td>Jackson County Library Services</td>
         <td>Oregon<br>(Pacific time)</td>
         <td>kbecker@jcls.org</td>
@@ -81,7 +81,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">7</td>
-        <td><a href="/melissa_brenneman.html">Melissa Brenneman</a></td>
+        <td><a href="melissa_brenneman.html">Melissa Brenneman</a></td>
         <td>Knox County Public Library</td>
         <td>Tennessee<br>(Eastern time)</td>
         <td>mbrenneman@knoxlib.org</td>
@@ -99,7 +99,7 @@ datatable: true
     </tr>
     <tr>
         <td style="display: none;">9</td>
-        <td><a href="/george_williams.html">George Williams</a></td>
+        <td><a href="george_williams.html">George Williams</a></td>
         <td>Northeast Kansas Library System</td>
         <td>Kansas<br>(Central time)</td>
         <td>gwilliams@nekls.org</td>
