@@ -1,0 +1,40 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Home
+  levels: one
+  folders:
+
+  - title: Aspen resources
+    output: web, pdf
+    folderitems:
+
+    - title: Aspen Library Software
+      output: web, pdf
+      url: /index.html
+
+    - title: Community website
+      output: web, pdf
+      external_url: https://community.aspendiscovery.org/
+
+    - title: Community calendar
+      output: web, pdf
+      url: /calendar
+
+    - title: AspenCon 2026
+      output: web, pdf
+      external_url: https://community.aspendiscovery.org/AspenCon2026
+
+    - title: Help center
+      output: web, pdf
+      external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
+
+    - title: Jira
+      output: web, pdf
+      external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
+
+
+
+
+    
+# Copyright 2026 Aspen Library Software Foundation

@@ -3,8 +3,8 @@ type: home
 title: "Aspen Library Software"
 keywords: homepage
 #tags: [getting_started]
-#sidebar: mydoc_sidebar
-hide_sidebar: true
+sidebar: home
+#hide_sidebar: true
 permalink: index.html
 toc: false
 #summary: Website for the Aspen Library Software Foundation
