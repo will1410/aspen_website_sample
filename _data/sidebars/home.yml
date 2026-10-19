@@ -1,40 +1,116 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Home
-  levels: one
+- title: Sidebar
+  levels: two
   folders:
 
-  - title: Aspen resources
+  - title: Community
     output: web, pdf
     folderitems:
 
-    - title: Aspen Library Software
+    - title: Community
       output: web, pdf
-      url: /index.html
+      url: /community.html
 
-    - title: Community website
+    - title: Code of Conduct
       output: web, pdf
-      external_url: https://community.aspendiscovery.org/
+      url: /code_of_conduct.html
 
-    - title: Community calendar
+    - title: Calendar
       output: web, pdf
-      url: /calendar
+      url: /calendar.html
+
+    - title: Groups and Meetings
+      output: web, pdf
+      url: /groups_meetings.html
+
+    - title: Community Connections
+      output: web, pdf
+      url: /connections.html
+    
+    - title: Libraries using Aspen
+      output: web, pdf 
+      url: /aspen_libraries.html
+
+  - title: Aspen Software
+    output: web, pdf
+    folderitems:  
+
+    - title: Aspen Software
+      output: web
+      url: /software_overview.html
+
+    - title: Aspen Discovery
+      output: web
+      url: /discovery.html
+
+    - title: Aspen LiDA
+      output: web
+      url: /lida.html 
+
+    - title: Aspen Progressive Web App
+      output: web
+      url: /progressive_web_app.html
+
+    - title: Help Center
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
+
+    - title: Jira
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
+
+    - title: Github
+      output: web
+      url: /github.html
+
+  - title: Foundation
+    output: web, pdf
+    folderitems: 
+
+    - title: Foundation 
+      output: web, pdf
+      url: /aspen_governance.html
+
+    - title: Bylawas
+      output: web, pdf
+      url: /bylaws.html
+
+    - title: Officers and committees
+      output: web, pdf
+      url: /officers_committees.html
+
+    - title: Technical committee
+      output: web, pdf
+      url: /technical_committee.html
+
+    - title: Sponsors
+      output: web, pdf
+      url: /sponsors.html
+
+    - title: Finances
+      output: web, pdf
+      url: /finances.html
+
+    - title: Open Library Foundation
+      output: web, pdf
+      external_url: https://openlibraryfoundation.org/
+
+  - title: Conference
+    output: web, pdf
+    folderitems: 
+
+    - title: Conference
+      output: web, pdf
+      url: /annual_conference.html
 
     - title: AspenCon 2026
       output: web, pdf
       external_url: https://community.aspendiscovery.org/AspenCon2026
 
-    - title: Help center
+    - title: Past Conferences
       output: web, pdf
-      external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
-
-    - title: Jira
-      output: web, pdf
-      external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
-
-
-
-
+      url: /past_conferences.html
     
-# Copyright 2026 Aspen Library Software Foundation
+# Copyright 2021 Google LLC

@@ -2,119 +2,170 @@
 
 entries:
 - title: Sidebar
-  levels: two
+  levels: three
   folders:
 
-  - title: About
+  - title: Community
     output: web, pdf
     folderitems:
 
-    - title: About
+    - title: Community
       output: web, pdf
-      url: /about.html
+      url: /community.html
 
-  - title: News
-    output: web, pdf
-    folderitems:  
-
-    - title: Current news
-      output: web
-      url: /news.html
-
-    - title: News archive
-      output: web
-      url: /news_archive.html
-
-  - title: Calendar
-    output: web, pdf
-    folderitems: 
+    - title: Code of Conduct
+      output: web, pdf
+      url: /code_of_conduct.html
 
     - title: Calendar
       output: web, pdf
       url: /calendar.html
 
-  - title: Governance
+    - title: Meetings and Groups
+      output: web, pdf
+      url: /meetings_and_groups.html
+
+    - title: Community Connections
+      output: web, pdf
+      url: /connections.html
+    
+    - title: Vendors and Support Companies
+      output: web, pdf
+      url: /vendors_and_support.html
+    
+    - title: Libraries using Aspen
+      output: web, pdf 
+      url: /aspen_libraries.html
+
+  - title: Aspen Software
+    output: web, pdf
+    folderitems:  
+
+    - title: Aspen Software
+      output: web
+      url: /software_overview.html
+
+    - title: Aspen Discovery
+      output: web
+      url: /discovery.html
+
+    - title: Aspen LiDA
+      output: web
+      url: /lida.html 
+
+    - title: Aspen Mobile
+      output: web
+      url: /aspen_mobile.html
+
+    - title: Help Center
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
+
+    - title: Jira
+      output: web
+      external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/summary
+
+    - title: Github
+      output: web
+      external_url: https://github.com/Aspen-Discovery
+
+
+  - title: Foundation
     output: web, pdf
     folderitems: 
 
-    - title: Governance 
+    - title: Foundation 
       output: web, pdf
-      url: /aspen_governance.html
+      url: /foundation.html
 
     - title: Bylawas
       output: web, pdf
       url: /bylaws.html
 
+    - title: Officers and committees
+      output: web, pdf
+      url: /officers_committees.html  
+
+      subfolders:
+      - title: Current Officers
+        output: web, pdf
+        subfolderitems:
+
+        - title: Bryan Jones (President)
+          output: web, pdf
+          url: /bryan_jones.html
+
+        - title: Sierra Chastain-Rittue (Vice President)
+          output: web, pdf
+          url: /sierra_chastain_rittue.html
+
+        - title: Bob Bennhoff (Treasurer)
+          output: web, pdf
+          url: /bob_bennhoff.html
+
+        - title: Linda Kramer (Secretary)
+          output: web, pdf
+          url: /linda_kramer.html
+
+        - title: Daniel Barden
+          output: web, pdf
+          url: /daniel_barden.html
+
+        - title: Kris Becker
+          output: web, pdf
+          url: /kris_becker.html 
+
+        - title: Melissa Brenneman
+          output: web, pdf
+          url: /melissa_brenneman.html
+
+        - title: Desiree Saunders
+          output: web, pdf
+          url: /desiree_saunders.html
+
+        - title: George Williams
+          output: web, pdf
+          url: /george_williams.html
+
+    - title: Technical committee
+      output: web, pdf
+      url: /technical_committee.html
+
+    - title: Sponsors
+      output: web, pdf
+      url: /sponsors.html
+
     - title: Finances
       output: web, pdf
       url: /finances.html
 
-    - title: Officers and committees
+    - title: Open Library Foundation
       output: web, pdf
-      url: /officers_committees.html
+      external_url: https://openlibraryfoundation.org/
 
-  - title: Current officers
+  - title: Conferences
     output: web, pdf
     folderitems: 
 
-    - title: Bryan Jones (President)
+    - title: AspenCON
       output: web, pdf
-      url: /bryan_jones.html
+      url: /aspencon.html
 
-    - title: Sierra Chastain-Rittue (Vice President)
+    - title: AspenCon 2026
       output: web, pdf
-      url: /sierra_chastain_rittue.html
+      external_url: https://community.aspendiscovery.org/AspenCon2026
 
-    - title: Bob Bennhoff (Treasurer)
-      output: web, pdf
-      url: /bob_bennhoff.html
-
-    - title: Linda Kramer (Secretary)
-      output: web, pdf
-      url: /linda_kramer.html
-
-    - title: Daniel Barden
-      output: web, pdf
-      url: /daniel_barden.html
-
-    - title: Kris Becker
-      output: web, pdf
-      url: /kris_becker.html 
-
-    - title: Melissa Brenneman
-      output: web, pdf
-      url: /melissa_brenneman.html
-
-    - title: Desiree Saunders
-      output: web, pdf
-      url: /desiree_saunders.html
-
-    - title: George Williams
-      output: web, pdf
-      url: /george_williams.html
-
-  - title: Technical
+  - title: News and Announcements
     output: web, pdf
     folderitems: 
 
-    - title: Technical committee bylawas
+    - title: News
       output: web, pdf
-      url: /tc_bylaws.html
+      url: /news.html
 
-    - title: Technical committee members
+    - title: News Archive
       output: web, pdf
-      url: /tc_members.html
+      url: /news_archive.html
 
-  - title: Get involved
-    output: web, pdf
-    folderitems: 
-
-    - title: Get involved
-      output: web, pdf
-      url: /get_involved.html
-
-    - title: Meetings
-      output: web, pdf
-      url: /meetings.html
     
 # Copyright 2021 Google LLC

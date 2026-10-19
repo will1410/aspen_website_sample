@@ -1,47 +1,75 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
-- title: Topnav
-  items:
-    - title: About 
-      url: /about
-    - title: News
-      url: /news
-    - title: Calendar 
-      url: /calendar
+#
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Governance
+    - title: Community
       folderitems: 
-        - title: Governance
-          url: aspen_governance.html
-        - title: Bylaws
-          url: bylaws.html
-        - title: Finances
-          url: finances.html
-        - title: Officers and committees
-          url: officers_committees.html
-    - title: Technical
-      folderitems: 
-        - title: Technical committee bylaws
-          url: tc_bylaws.html
-        - title: Technical committee members
-          url: tc_members.html
-    - title: Get involved
+        - title: Community
+          url: community.html
+        - title: Code of Conduct
+          url: code_of_conduct.html
+        - title: Calendar
+          url: calendar.html
+        - title: Meetings and Groups
+          url: meetings_and_groups.html
+        - title: Community Connections
+          url: connections.html
+        - title: Vendors and Support Companies
+          url: vendors_and_support.html
+        - title: Libraries Using Aspen
+          url: aspen_libraries.html
+    - title: Aspen Software
       folderitems:
-        - title: Get involved 
-          url: get_involved.html
-        - title: Meetings 
-          url: meetings.html
-    - title: Resources
-      folderitems:
+        - title: Aspen Software
+          url: software_overview.html
+        - title: Aspen Discovery
+          url: discovery.html
+        - title: Aspen LiDA
+          url: lida.html 
+        - title: Aspen Mobile
+          url: aspen_mobile.html
         - title: Aspen help center
           external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
         - title: Jira
-          external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
+          external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/summary
+        - title: Github
+          external_url: https://github.com/Aspen-Discovery
+    - title: Foundation
+      folderitems:
+        - title: Foundation
+          url: foundation.html
+        - title: Bylawas
+          url: bylaws.html
+        - title: Officers and committees
+          url: officers_committees.html
+        - title: Technical committee
+          url: technical_committee.html
+        - title: Sponsors
+          url: sponsors.html
+        - title: Finances
+          url: finances.html
+        - title: Open Library Foundation
+          external_url: https://openlibraryfoundation.org/
+    - title: Conference
+      folderitems:
+        - title: Conference
+          url: aspencon.html
+        #- title: AspenCon 2027
+        #  url: 
+        - title: AspenCon 2026
+          external_url: https://community.aspendiscovery.org/AspenCon2026
+    - title: News and Announcements
+      folderitems:
+        - title: News and Announcements
+          url: news.html
+        - title: Archive
+          url: news_archive.html
+
+
 
 
 

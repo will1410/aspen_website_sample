@@ -2,16 +2,28 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
-  - news
-  - troubleshooting
-  - mobile
+  - discovery
+  - lida
+  - mobile_app
+  - gathering
+  - technical_committee
+  - automated_testing
+  - catalogers_group
+  - consortiums_group
+  - developers_group
+  - triage_group
+  - documentation_group
+  - lida_group
+  - symphony_group
+  - polaris_group
+  - evergreen_group
+  - carlx_group
+  - sierra_group
+  - koha_group
+  - aspen_weekly
+  - meetings
+  - foundation
+  - board_member
+  - committees
 
 # Copyright 2021 Google LLC
